@@ -8,7 +8,7 @@ memory = boiler
 host = locomotive
 disk = tender
 
-ascii art Thomas was acquired from: https://textart.sh/topic/thomas
+ascii art was acquired from: https://www.asciiart.eu/vehicles/trains
 
 */
 
